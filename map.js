@@ -1,2 +1,1 @@
 //anny
-$('body').hide();
