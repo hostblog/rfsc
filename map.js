@@ -1,1 +1,2 @@
 //anny
+$('body').hide();
