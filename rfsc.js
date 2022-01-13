@@ -1,4 +1,6 @@
 console.log('test')
 if (window.self !== window.top) {
-$('.leaflet-pane.leaflet-overlay-pane').remove()
+  $( document ).ready(function() {
+    $('.leaflet-pane.leaflet-overlay-pane').remove()
+  }
 }
